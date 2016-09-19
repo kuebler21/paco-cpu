@@ -21,8 +21,8 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Getting Started"
+    url: /docs/getting-started/
 
   - title: "About"
     url: /about/
@@ -41,8 +41,8 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Getting Started Guide"
+        url: /docs/getting-started/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
