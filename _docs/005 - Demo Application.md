@@ -1,4 +1,3 @@
-
 ---
 title: "Demo Application"
 permalink: /docs/demo/
