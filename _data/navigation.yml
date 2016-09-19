@@ -36,10 +36,6 @@ main:
   - title: "Links"
     url: /docs/helpful-concepts/
 
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-
-
 # documentation links
 docs:
   - title: Idea
@@ -105,16 +101,3 @@ docs:
         url: /docs/related-works/
       - title: "Publications"
         url: /docs/publications/
-
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
