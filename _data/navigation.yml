@@ -21,17 +21,20 @@ foo:
 
 # main links links
 main:
+  - title "Idea"
+    url: /docs/idea/
+
   - title: "Getting Started"
     url: /docs/getting-started/
 
-  - title: "About"
-    url: /about/
+  - title: "Tutorial"
+    url: /docs/tutorial/
 
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "Documentation"
+    url: /docs/documentation/
 
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Links"
+    url: /docs/links/
 
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
@@ -39,6 +42,20 @@ main:
 
 # documentation links
 docs:
+  - title: Idea
+    children:
+      - title: "Getting Started Guide"
+        url: /docs/getting-started/
+      - title: "Concepts"
+        url: /docs/concepts/
+      - title: "Technology Behind PACO"
+        url: /docs/technology/
+      - title: "Results"
+        url: /docs/results/
+      - title: "Demo Application"
+        url: /docs/demo/
+
+
   - title: Getting Started
     children:
       - title: "Getting Started Guide"
@@ -50,38 +67,44 @@ docs:
       - title: "Run"
         url: /docs/run/
 
-  - title: Customization
+  - title: Tutorial
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Creating your Application"
+        url: /docs/create-application/
+      - title: "Annotating Code"
+        url: /docs/annotate/
+      - title: "Testing using Tools"
+        url: /docs/test-tools/
+      - title: "Using an FPGA"
+        url: /docs/use-fpga/
+      - title: "Evalulating your Results"
+        url: /docs/evaluate/
+      - title: "Contributing to PACO"
+        url: /docs/contribute/
 
-  - title: Content
+  - title: Documentation
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "User Guide"
+        url: /docs/user-guide/
+      - title: "Developer Guide"
+        url: /docs/developer-guide/
+      - title: "Design Document"
+        url: /docs/design-document/
+      - title: "Glossary"
+        url: /docs/glossary/
+      - title: "FAQ"
+        url: /docs/faq/
+      - title: "Troubleshooting"
+        url: /docs/troubleshooting/
 
-  - title: Extras
+  - title: Links
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Helpful concepts"
+        url: /docs/helpful-concepts/
+      - title: "Related Works"
+        url: /docs/related-works/
+      - title: "Publications"
+        url: /docs/publications/
 
   - title: Meta
     children:
