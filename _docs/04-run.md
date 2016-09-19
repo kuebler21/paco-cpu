@@ -1,0 +1,19 @@
+---
+title: "Run"
+permalink: /docs/run/
+excerpt: "Instructions on running the PACO toolchain"
+modified: 2016-08-01T09:43:46-04:00
+---
+
+{% include base_path %}
+
+### The table is not removed as a hint for documentation
+
+| Name                   |     |
+| ----                   | --- |
+| `_layouts`             | Replace all. Apply edits if you customized any layouts. |
+| `_includes`            | Replace all. Apply edits if you customized any includes. |
+| `assets`               | Replace all. Apply edits if you customized stylesheets or scripts. |
+| `_data/navigation.yml` | Safe to keep. Verify that there were no major structural changes or additions. |
+| `_data/ui-text.yml`    | Safe to keep. Verify that there were no major structural changes or additions. |
+| `_config.yml`          | Safe to keep. Verify that there were no major structural changes or additions. |
