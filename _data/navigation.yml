@@ -95,7 +95,7 @@ docs:
       - title: "FAQ"
         url: /docs/faq/
       - title: "Troubleshooting"
-        url: /docs/troubleshooting/
+        url: /docs/troubleshoot/
 
   - title: Links
     children:
