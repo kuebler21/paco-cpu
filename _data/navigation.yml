@@ -31,10 +31,10 @@ main:
     url: /docs/create-application/
 
   - title: "Documentation"
-    url: /docs/documentation/
+    url: /docs/user-guide/
 
   - title: "Links"
-    url: /docs/links/
+    url: /docs/helpful-concepts/
 
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
