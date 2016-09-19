@@ -24,8 +24,8 @@ main:
   - title: "Idea"
     url: /docs/idea/
 
-  - title: "People behind PACO"
-    url: /docs/people/
+  - title: "Getting Started"
+    url: /docs/getting-started/
 
   - title: "Tutorial"
     url: /docs/tutorial/
@@ -44,8 +44,8 @@ main:
 docs:
   - title: Idea
     children:
-      - title: "Getting Started Guide"
-        url: /docs/getting-started/
+      - title: "People behind PACO"
+        url: /docs/people/
       - title: "Concepts"
         url: /docs/concepts/
       - title: "Technology Behind PACO"
