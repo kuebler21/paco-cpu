@@ -24,8 +24,8 @@ main:
   - title "Idea"
     url: /docs/idea/
 
-  - title: "Getting Started"
-    url: /docs/getting-started/
+  - title: "People behind PACO"
+    url: /docs/people/
 
   - title: "Tutorial"
     url: /docs/tutorial/
