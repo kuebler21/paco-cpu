@@ -44,11 +44,11 @@ main:
 docs:
   - title: Idea
     children:
-      - title: "People behind PACO"
+      - title: "People"
         url: /docs/people/
       - title: "Concepts"
         url: /docs/concepts/
-      - title: "Technology Behind PACO"
+      - title: "Technology"
         url: /docs/technology/
       - title: "Results"
         url: /docs/results/
