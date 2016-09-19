@@ -12,19 +12,19 @@ feature_row:
   - image_path: mm-customizable-feature.png
     alt: "speedup"
     title: "Upto 3x Speedup"
-    excerpt: "Speedup of 3x obtained."
+    excerpt: ""
     url: "/docs/results/"
-    btn_label: "speedup"
+    btn_label: "Speedup"
   - image_path: mm-responsive-feature.png
     alt: "General Purpose"
     title: "General Purpose"
-    excerpt: "All your general applications"
+    excerpt: ""
     url: "/docs/concepts/"
     btn_label: "General Purpose"
   - image_path: mm-free-feature.png
     alt: "Platform"
     title: "Approximate Computing Platform"
-    excerpt: "A platform for computing approximately"
+    excerpt: ""
     url: "/docs/technology/"
     btn_label: "Platform"
 github:
