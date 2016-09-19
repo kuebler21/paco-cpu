@@ -1,11 +1,11 @@
 ---
-title: "Structure"
-permalink: /docs/structure/
-excerpt: "How the theme is organized and what all of the files are for."
+title: "Download"
+permalink: /docs/download/
+excerpt: "How and where from can the PACO toolchain be downloaded."
 modified: 2016-08-08T16:25:30-04:00
 ---
 
-Nothing clever here :wink:. Layouts, data files, and includes are all placed in their default locations. Stylesheets and scripts in `assets`, and a few development related files in the project's root directory.
+#### The navigation below is not removed as a hint for documentation of the project structure
 
 ```bash
 minimal-mistakes
