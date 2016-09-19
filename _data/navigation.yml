@@ -21,7 +21,7 @@ foo:
 
 # main links links
 main:
-  - title "Idea"
+  - title: "Idea"
     url: /docs/idea/
 
   - title: "People behind PACO"
