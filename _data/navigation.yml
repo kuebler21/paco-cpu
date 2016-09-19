@@ -77,7 +77,7 @@ docs:
         url: /docs/test-tools/
       - title: "Using an FPGA"
         url: /docs/use-fpga/
-      - title: "Evalulating your Results"
+      - title: "Evaluating your Results"
         url: /docs/evaluate/
       - title: "Contributing to PACO"
         url: /docs/contribute/
