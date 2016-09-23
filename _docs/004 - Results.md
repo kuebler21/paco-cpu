@@ -10,3 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ### The results and outcome obtained from the PACO project
+The PACO repository contains two demo applications:
+* a [Gaussian blur](https://en.wikipedia.org/wiki/Gaussian_blur) image filter
+* a [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction) algorithm
+
+Both were used as test applications for both our approximate ALU and the Lookup Table, verifying their results stay within predicted error bounds and giving an impression of the effects of approximation for the human eye.
+
+(insert Lenna images)
+
+(insert speedup graph for Gaussian LUT)
+
+(insert a checkerboard image with different parameters for Gaussian ALU, maybe small with a link to the full image)
