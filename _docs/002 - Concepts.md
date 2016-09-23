@@ -11,9 +11,9 @@ redirect_from:
 
 ### Description of the Idea and the Concepts behind PACO
 
-PACO is a CPU designed to calculate approximations
-hardware that can approximate specialized instructions (explicit, don't try to approximate and see results)
-provide a research platform
+* PACO is a CPU designed to calculate approximations
+* hardware that has approximate instructions
+* provide a research platform
 
 ### Goals:
 * learn about approximations
