@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-### Introduce the Page 
+### Who?
+PACO has been created at the University of Paderborn, by a group of Master's students. The code base is open source and builds on several other projects...
