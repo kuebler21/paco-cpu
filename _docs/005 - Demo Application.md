@@ -11,8 +11,7 @@ redirect_from:
 
 ### Demo Application to showcase PACO
 Why image processing? Quality visible, and approximate computing for human consumption
-Why these? Very different, one point, one neighborhood, one add/mult, one complex mathematical function.
-* Gaussian blur image filter (link en.wiki)
-* Gamma correction
 
-Links to evaluation?
+Why these? Very different, one point, one neighborhood, one add/mult, one complex mathematical function.
+
+When introducing Gamma correction, show formula.
