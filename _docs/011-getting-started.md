@@ -22,3 +22,25 @@ Fork the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/
 ---
 
 Congratulations! You've successfully blah blah!
+
+---
+### Real page starts here:
+---
+# Getting started with PACO – Paderborn CPU Core for Approximate Computing
+
+# TODO: write introduction
+
+Before you start to download and use PACO, please make sure you have all the needed prerequisites
+
+# TODO: write something about the prerequisites
+
+Now you can download the content from the git repositories. Click on Download to get more information about how to do it.
+
+When all repositories are downloaded successful in the correct directory, you can start to build the project. To do so, follow the link Build project. 
+
+To run it, read content of run
+
+For using PACO with your own code, you might want to run the code on the approximate core. 
+
+
+
