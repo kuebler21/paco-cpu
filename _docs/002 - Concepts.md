@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% include toc %}
 
 ### Description of the Idea and the Concepts behind PACO
 
