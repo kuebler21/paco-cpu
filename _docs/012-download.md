@@ -20,22 +20,26 @@ Here you can take a look into the structure to have a clue how the repositories 
 #### The navigation below is not removed as a hint for documentation of the project structure
 
 ```bash
-minimal-mistakes
-├── _data                      # data files for customizing the theme
-|  ├── navigations.yml         # main navigation links
-|  └── ui-text.yml             # text used throughout the theme's UI
-├── _includes
-|  ├── analytics-providers     # snippets for analytics (Google and custom)
-|  ├── comments-providers      # snippets for comments (Disqus, Facebook, Google+, and custom)
-|  ├── footer                  # custom snippets to add to site footer
-|  ├── head                    # custom snippets to add to site head
-|  ├── base_path               # site.url + site.baseurl shortcut
-|  ├── feature_row             # feature row helper
-|  ├── gallery                 # image gallery helper
-|  ├── group-by-array          # group by array helper for archives
-|  ├── nav_list                # navigation list helper
-|  ├── toc                     # table of contents helper
-|  └── ...
+paco-env
+├── env.sh
+├── install.sh
+├── _qemu
+├── _riscv-tools
+├── _riscv-tools-src
+|  ├── _py                               # 
+|  ├── _riscv-fesrv                      # 
+|  ├── _riscv-gnu-toolchain              # 
+|  ├── _riscv-isa-sim                    # 
+|  ├── _riscv-llvm                       # 
+|  |  ├── _riscv-clang                   # 
+|  ├── _riscv-lut-compiler               # 
+|  ├── _riscv-opcodes                    # 
+|  ├── _riscv-pk                         # 
+|  ├── _riscv-tests                      # 
+|  |  ├── _env                           # 
+|  ├── _rocket-chip                      # 
+|  |  ├── _chisel                        # 
+|  |  ├── _context-dependent-environment # 
 ├── _layouts
 |  ├── archive-taxonomy.html   # tag/category archive for Jekyll Archives plugin
 |  ├── archive.html            # archive listing documents in an array
