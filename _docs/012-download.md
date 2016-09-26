@@ -5,15 +5,15 @@ excerpt: "How and where from can the PACO toolchain be downloaded."
 modified: 2016-08-08T16:25:30-04:00
 ---
 
-### Here you can see the structure, how all git repositories are located correct. Please clone all content from the repositories like this. Be aware that all data will need about .
+## Download
+To prevent you from cloning all subdirectories of the project by yourself, you can download the content from the master directory: (TODO: add link)
+Be aware that all data will need about 18GB. 
 
-# TODO: Comment where to download (add links in the list?)
+## Repository structure
+
+Here you can take a look into the structure to have a clue how the repositories are located correct. 
 
 # TODO: make a structure like the examle below with all our repositories
-
-
-
-
 
 
 
