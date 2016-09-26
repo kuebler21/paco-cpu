@@ -5,6 +5,18 @@ excerpt: "How and where from can the PACO toolchain be downloaded."
 modified: 2016-08-08T16:25:30-04:00
 ---
 
+### Here you can see the structure, how all git repositories are located correct. Please clone all content from the repositories like this. Be aware that all data will need about .
+
+# TODO: Comment where to download (add links in the list?)
+
+# TODO: make a structure like the examle below with all our repositories
+
+
+
+
+
+
+
 #### The navigation below is not removed as a hint for documentation of the project structure
 
 ```bash
